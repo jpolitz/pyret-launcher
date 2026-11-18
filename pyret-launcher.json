@@ -1,0 +1,5 @@
+{
+  "upstream": "jpolitz/pyret-launcher",
+  "folder": "programs",
+  "baseName": "program"
+}
